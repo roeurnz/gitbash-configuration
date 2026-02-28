@@ -1,5 +1,5 @@
 
-# 📝 GitHub Manager for Multiple Accounts — Documentation (General)
+# 📝 GitHub Manager for Multiple Accounts — Documentation (General) FYI
 
 ## Table of Contents
 
@@ -289,5 +289,6 @@ ssh -T git@github-personal
   * Loaded keys
   * Git identity
   * Remote host matches the account
+
 
 
