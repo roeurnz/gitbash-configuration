@@ -1,4 +1,4 @@
-# GitHub Setup Guide for Windows
+# GitHub Setup Guide for Windows/Ubuntu/Mac
 
 This repository contains a guide to help you set up version control using GitHub on a Windows system.
 
